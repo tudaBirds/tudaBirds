@@ -3,6 +3,7 @@
 - 🌱 The tudaBirds arena is an economically and environmentally-sustainable strategic delivery vehicle designed to attract players, collectors, investors, speculators and users of all interests.
 - 💞️ The tudaBirds arena is home of spectacular high-win, high-entertainment gaming, and other player experiences.
 - 📫 How to reach me ...
+
 https://tudabirds.io/
 https://twitter.com/tudabirds
 https://discord.gg/JpSKTJ2F2G
