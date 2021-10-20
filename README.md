@@ -6,9 +6,13 @@
 
 https://tudabirds.io/
 
+https://business.tudabirds.io/
+
+https://tudabirds.medium.com/
+
 https://twitter.com/tudabirds
 
-https://discord.gg/JpSKTJ2F2G
+https://discord.gg/tudabirds
 
 https://t.me/tudabirdsgroup
 
@@ -18,6 +22,11 @@ https://www.instagram.com/tudabirds
 
 https://www.youtube.com/channel/UCK_P2r8jqw3ZD2R2yYnRxmQ
 
+https://business.facebook.com/tudabirds/
+
+https://nftaggregator.io/tudabirds/
+
+https://www.tiktok.com/@tudabirds
 
 <!---
 tudaBirds/tudaBirds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
